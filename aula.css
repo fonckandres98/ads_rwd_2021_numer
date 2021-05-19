@@ -1,0 +1,14 @@
+div{ text-align: center;padding-bottom: 5%;}
+a{padding-right: 15px ;}
+
+.numeros a:hover{ background-color: rgb(48, 216, 216);}
+.numeros a {background: aquamarine; }
+.numeros a {border: 1px solid black ;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+
+div{border: 1px solid black; 
+margin: 50px auto;
+width: 25%;
+background: rgb(184, 235, 237);}
+
